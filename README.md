@@ -29,9 +29,6 @@ For efficient data storage and management, the project utilizes a MongoDB databa
 ## Installation and Setup
 
 ```bash
-git clone https://github.com/kunaal-gupta/WeatherSense.git
-```
-```bash
 npm install
 ```
 
