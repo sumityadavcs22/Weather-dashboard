@@ -23,19 +23,6 @@ The backend of this project is built using Express.js and Node.js, serving as a 
 
 For efficient data storage and management, the project utilizes a MongoDB database hosted on MongoDB Atlas. The database consists of two collections: "Active Users" for currently logged-in users and "Registered Users" for storing details of registered users like name, email, password, and city.
 
-![WelcomePage](https://github.com/kunaal-gupta/WeatherSense-Project/assets/87749508/4e071391-8239-437c-9075-4d04ae09cf3c)
-![LoginPage](https://github.com/kunaal-gupta/WeatherSense-Project/assets/87749508/256fc740-3efd-40df-8e74-a05b2a316b9f)
-![RegisterPage](https://github.com/kunaal-gupta/WeatherSense-Project/assets/87749508/24076d4c-5528-47ad-8d03-4e3e345bf65b)
-![Dashboard](https://github.com/kunaal-gupta/WeatherSense-Project/assets/87749508/1f6d85ea-d3fd-44e1-afbf-e3fdeb53bae5)
-
-
-
-## Authors
-
-- [@Kunaal Gupta](https://github.com/kunaal-gupta)
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kunaal-gupta.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamkunaalgupta/)
 
 
 
